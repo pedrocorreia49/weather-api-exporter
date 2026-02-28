@@ -2,21 +2,22 @@
 
 A robust Python script that fetches live weather data from OpenWeatherMap API and exports it to Excel/CSV.
 
-🚀 Features
-• Multi-City Monitoring: Fetches data for multiple cities in one run
-• Secure Configuration: API keys managed via .env file
-• Data Export: Saves clean data to Excel or CSV using Pandas
-• Error Handling: Gracefully handles API errors and invalid cities
-• Logging: Detailed console logs for monitoring
+## 🚀 Features
+- **Multi-City Monitoring:** Fetches data for multiple cities in one run
+- **Secure Configuration:** API keys managed via .env file
+- **Data Export:** Saves clean data to Excel or CSV using Pandas
+- **Error Handling:** Gracefully handles API errors and invalid cities
+- **Logging:** Detailed console logs for monitoring
 
-🛠 Tech Stack
-• Python 3.9+
-• Requests
-• Pandas
-• python-dotenv
-• OpenPyXL
+## 🛠 Tech Stack
+- Python 3.9+
+- Requests
+- Pandas
+- python-dotenv
+- OpenPyXL
 
-📖 Usage
+## 📖 Usage
+```bash
 # Install dependencies
 pip install -r requirements.txt
 
